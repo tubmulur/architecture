@@ -1,5 +1,5 @@
-# RCeFramework architecture
-RCeFramwork EDRO architecture
+# RCeFramework architecture EDRO
+RCeFramework EDRO architecture
 /RCeFramework
 /RCeFramework/Object
 /RCeFramework/Request
