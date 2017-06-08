@@ -1,7 +1,10 @@
-# RCeFramework EDRO architecture
+# RCeFramework ORder architecture
 RCeFramwork EDRO architecture
 /RCeFramework
-/RCeFramework/event
-/RCeFramework/object
+/RCeFramework/Object
+/RCeFramework/Request
 /RCeFramework/design
-/RCeFramework/request
+/RCeFramework/event
+/RCeFramework/reality
+
+
