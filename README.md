@@ -7,4 +7,5 @@ RCeFramwork EDRO architecture
 /RCeFramework/event
 /RCeFramework/reality
 
+reality types: console, web, stream, block, chain
 
