@@ -1,4 +1,4 @@
-# RCeFramework ORder architecture
+# RCeFramework architecture
 RCeFramwork EDRO architecture
 /RCeFramework
 /RCeFramework/Object
