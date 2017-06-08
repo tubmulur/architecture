@@ -1,10 +1,6 @@
 # RCeFramework architecture EDRO
-RCeFramework EDRO architecture
-/RCeFramework
-/RCeFramework/Object
-/RCeFramework/Request
-/RCeFramework/design
-/RCeFramework/event
-/RCeFramework/reality
+RCeFramework EDRO
+
+Object, Request, design, event, reality
 
 reality types: console, web, stream, block, chain
