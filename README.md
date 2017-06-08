@@ -1,4 +1,4 @@
-# RCeFramework architecture
+# RCeFramework EDRO architecture
 RCeFramwork EDRO architecture
 /RCeFramework
 /RCeFramework/event
