@@ -1,4 +1,4 @@
-class CommandSequencer
+class SequencerCommand
         {
         private $errors=[
         ];
