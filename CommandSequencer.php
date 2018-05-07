@@ -12,8 +12,6 @@ class CommandSequencer
         private function startCantroller($command)
                 {
                 include$this->config['baseFolder'].ucfirst($command).'.php';
-                //include classes
-                //
                 }
         private function stopControoler()
                 {
@@ -22,7 +20,10 @@ class CommandSequencer
                 }
         private function clearMethods()
                 {
-                $metudsArray=get_class_methods();
-                foreach
+                $metodsArray=get_class_methods();
+                foreach($metods as $metod)
+                        {
+                        unset($metod);
+                        }        
                 }
         }
