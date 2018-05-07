@@ -46,7 +46,10 @@ class CommandSequencer
                                 }
                         else
                                 {
-                                unset($this->$objectOfProperty);
-                                }
+                                unset($this->$objectOfProperty);                               }
+                        }
+                if(count(get_class_vars())===(int)0)
+                        {
+                        
                         }
                 }
