@@ -29,6 +29,7 @@ class CommandSequencer
                         }
                 if(count(get_class_methods())===(int)0)
                         {
+                        //INeudachinaAvatar
                         }
                 else
                         {
@@ -37,5 +38,15 @@ class CommandSequencer
                 }
         private function clearPropsExept((string)$propertys)
                 {
-                foreach($propertys as $property)
+                foreach($properties as $objectOfProperty)
+                        {
+                        if($objectOfProperty==$command)
+                                {
+                                //INeudachinaAvatar
+                                }
+                        else
+                                {
+                                unset($this->$objectOfProperty);
+                                }
+                        }
                 }
