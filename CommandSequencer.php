@@ -10,6 +10,7 @@ class CommandSequencer
                 $this->data=$this->commandStartController($command);
                 $this->$command=$Command=new $command;
                 $this->data=$this->stopController($command,$dataType);
+                $this->reportErrors();
                 }
         private function startCantroller($command)
                 {
@@ -50,6 +51,10 @@ class CommandSequencer
                         }
                 if(count(get_class_vars())===(int)0)
                         {
-                        
+                        //INeudachinaAvatar
+                        }
+                else
+                        {
+                        $this->errors[]=__FUNCTION__;
                         }
                 }
