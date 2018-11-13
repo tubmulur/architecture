@@ -14,4 +14,5 @@ reality types: console, web, stream, block, chain
 #\/\\    
 #-------------------------------------------------------<br/>
 We are smiling when we are happy.<br/>
+We feel the pain, when we have body or soul damage.
 Have a good day.<br/>
