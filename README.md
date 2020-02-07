@@ -34,15 +34,15 @@ Let's place this questions in order to be asked only once, while crossing this s
 So we can compile your enviroment completely.
 
          So 1) Event= "We need  to manufacture phone"
-<------>    2) Destination (Design in web projects) It will be manufactored in a phone factory.
-            3) I'm adirector, so my objects will be: Director order system, and director report system.
-<------>    4) Object:
+            2) Destination (Design in web projects) It will be manufactored in a phone factory.
+            3) I'm director, so my objects will be: Director order system, and director report system.
+            4) Object:
 
          Some manufacturing process.<br/>
         _____________________<br/>
        /       |       |     \<br/>
     Job1      Job2    Job3   Job4<br/>
-     /        /        |       \      |<br/>
+     /        /        |       |      
    EDRO      EDRO     EDRO    EDRO<br/>
     \          \       |        /<br/>
     Some result, described in Event.<br/>
