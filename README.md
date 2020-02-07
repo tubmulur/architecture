@@ -11,13 +11,13 @@ Event Destination Reality Objects
 © A.A.CheckMaRev assminog@gmail.com
 -->
 EDRO - >Is an  integral summ of 4 square flats;
-...
-   : : : :
- .. E D R O ..
- .. E D R O ..
- .. E D R O ..
- .. E D R O ....
-   : : : :.
+...<br/>
+   : : : :<br/>
+ .. E D R O ..<br/>
+ .. E D R O ..<br/>
+ .. E D R O ..<br/>
+ .. E D R O ....<br/>
+   : : : :.<br/>
 
 Following will completely describe your situation when you are doing something.
 
@@ -33,12 +33,12 @@ Let's place this questions in order to be asked only once, while crossing this s
 
 So we can compile your enviroment completely.
 
-  : : : :
- |E|.|D|.|R|.|O|.\
-    |  |E|.|D|.|R|.|O|. \--
-    |  |E|.|D|.|R|.|O|. /\
-    |  |E|.|D|.|R|.|O|...
- |E|.|D|.|R|.|O|...
+  : : : :<br/>
+ |E|.|D|.|R|.|O|.\<br/>
+    |  |E|.|D|.|R|.|O|. \--<br/>
+    |  |E|.|D|.|R|.|O|. /\<br/>
+    |  |E|.|D|.|R|.|O|...<br/>
+ |E|.|D|.|R|.|O|...<br/>
 
  
          So 1) Event= "We need  to manufacture phone"
@@ -46,27 +46,27 @@ So we can compile your enviroment completely.
             3) I'm adirector, so my objects will be: Director order system, and director report system.
 <------>    4) Object:
 
-         Some manufacturing process.
-        _____________________
-       /       |       |     \
-    Job1      Job2    Job3   Job4
-     /        /        |       \      |
-   E/|D     D/|R     R/|O     O/|E    |
-  E/ |D    D/ |R    R/ |O    O/ |E    |
- E/  |D   D/  |R   R/  |O   O/  |E   \ /
-E/   |D  D/ U2|R  R/   |O  O/   |E..........
-O|   /R  E|   /O D|   /E  R|   /D.
-O|  /R   E|  /O  D|  /E   R|  /D...
-O| /R    E| /O   D| /E    R| /D......
-O|/R     E|/O    D|/E     R|/D.
- \        \       |        /
-  \        |      |       /
-   \       |      |      /
-    ---------------------
-    Some result, described in Event.
-
-
-reality types: console, web, stream, block, chain
+         Some manufacturing process.<br/>
+        _____________________<br/>
+       /       |       |     \<br/>
+    Job1      Job2    Job3   Job4<br/>
+     /        /        |       \      |<br/>
+   E/|D     D/|R     R/|O     O/|E    |<br/>
+  E/ |D    D/ |R    R/ |O    O/ |E    |<br/>
+ E/  |D   D/  |R   R/  |O   O/  |E   \ /<br/>
+E/   |D  D/ U2|R  R/   |O  O/   |E..........<br/>
+O|   /R  E|   /O D|   /E  R|   /D.<br/>
+O|  /R   E|  /O  D|  /E   R|  /D...<br/>
+O| /R    E| /O   D| /E    R| /D......<br/>
+O|/R     E|/O    D|/E     R|/D.<br/>
+ \        \       |        /<br/>
+  \        |      |       /<br/>
+   \       |      |      /<br/>
+    ---------------------<br/>
+    Some result, described in Event.<br/>
+<br/>
+<br/>
+reality types: console, web, stream, block, chain<br/>
 <br/>
 #\/\*\\*\
 #\*.\*.
