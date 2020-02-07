@@ -33,16 +33,8 @@ Let's place this questions in order to be asked only once, while crossing this s
 
 So we can compile your enviroment completely.
 
-  : : : :<br/>
- |E|.|D|.|R|.|O|.\<br/>
-    |  |E|.|D|.|R|.|O|. \--<br/>
-    |  |E|.|D|.|R|.|O|. /\<br/>
-    |  |E|.|D|.|R|.|O|...<br/>
- |E|.|D|.|R|.|O|...<br/>
-
- 
          So 1) Event= "We need  to manufacture phone"
-<------>    2) Destination (Design in web projects) It will be manufactored in a phonr factory.
+<------>    2) Destination (Design in web projects) It will be manufactored in a phone factory.
             3) I'm adirector, so my objects will be: Director order system, and director report system.
 <------>    4) Object:
 
@@ -51,18 +43,8 @@ So we can compile your enviroment completely.
        /       |       |     \<br/>
     Job1      Job2    Job3   Job4<br/>
      /        /        |       \      |<br/>
-   E/|D     D/|R     R/|O     O/|E    |<br/>
-  E/ |D    D/ |R    R/ |O    O/ |E    |<br/>
- E/  |D   D/  |R   R/  |O   O/  |E   \ /<br/>
-E/   |D  D/ U2|R  R/   |O  O/   |E..........<br/>
-O|   /R  E|   /O D|   /E  R|   /D.<br/>
-O|  /R   E|  /O  D|  /E   R|  /D...<br/>
-O| /R    E| /O   D| /E    R| /D......<br/>
-O|/R     E|/O    D|/E     R|/D.<br/>
- \        \       |        /<br/>
-  \        |      |       /<br/>
-   \       |      |      /<br/>
-    ---------------------<br/>
+   EDRO      EDRO     EDRO    EDRO<br/>
+    \          \       |        /<br/>
     Some result, described in Event.<br/>
 <br/>
 <br/>
@@ -72,7 +54,7 @@ reality types: console, web, stream, block, chain<br/>
 #\*.\*.
 #\/ \
 #\/\\    
-#-------------------------------------------------------<br/>
+#-------        ------------------------------------------------<br/>
 We are smiling when we are happy.<br/>
 We feel the pain, when we have body or soul damage.
 Have a good day.<br/>
