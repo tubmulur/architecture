@@ -5,34 +5,39 @@ https://m.vk.com/@andrey.chekmarev-edro-the-future-of-developing
 
 EDRO:<br/>
 — What is the future? <br/>
-— Future is time, where you can be. <br/>
+— Future is the time, where you will be. <br/>
 — Would you have some extra needs, or some extra quality wishes in future? <br/>
-— I think yes. We will. <br/>
+— I think yes. I will. <br/>
 — Who'll brings us this needs and wishes? <br/>
-— Also we are. <br/>
+— Also we are. <br/>  <br/>
 EDRO <br/>
-/home/RCe.EDRO/documentation/Vocabulary/Accronimas/EDRO <br/>
-EDRO - > Is a sequence of processes, consists of 4 required to be formalized proceeding steps; Each step must be defined after another.
-Here are this steps: <br/>
+/home/SetOfTools/EDRO/documentation/Vocabulary/Accronimas/EDRO <br/>
+EDRO - > Is a sequence of processes, consists of 4 required to be formalized proceeding steps; 
+Each step must be defined after another.  <br/>
+Here are this steps: <br/>  <br/>
 1.[E] Event;
 2.[D] Design or Destination (the place where) ;
 3.[R] Reality;
-4.[O] Objects.
-Following explanation will completely describe your situation when you are doing something:
-Let's imagine:
-— What is your program?
-— My program is something, that will satisfy my needs of producing, it is an instrument for producing.
-So, how to do something:
-1) [O]:You have something with your hands to perform the task. What are it: My instruments to perform the task;
+4.[O] Objects. 
+
+ <br/>
+Following explanation will completely describe your situation, when you are doing something:  <br/>
+#Let's imagine:  <br/>
+— What is your program?  <br/>
+— My program is something, that will satisfy my needs of producing, it is an instrument for producing.  <br/>
+#So, how to do something:  <br/>
+1) [O]:You have something with your hands to perform the task. What are it: My instruments to perform the task;  <br/>
 2) [D]:You are doing it somewhere. Where?: Destination or Design template (for web);
 3) [R]:Who are you? (More often question is: What are your position? May be suitable for less detailed perfect world);
-4) [E]:What are you doing?;
-Let's place this questions in order to be asked only once, while crossing this sequence:
+4) [E]:What are you doing?
+
+#Let's place this questions in order to be asked only once, while crossing this sequence:
 1) [E]:What will i do? = Event;
 2) [D]:Where am I? = Destination or design (Can't be perfect without knowledge about Event);
 3) [R]:Who am I? = Reality for current process. Cannot be answered without understanding, "Where am I";
 4) [O]:Instrument to do something for manufacturing=Object;
-Example of answering:
+
+#Example of answering:
 I'm
 1) [E]:"On the factory"
 2) [D]:"What will I do?" You will make some job, so,
