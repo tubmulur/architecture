@@ -2,13 +2,13 @@ This file was deleted.
 I understand, that I must exit,
 from my github account, before I
 exiting the office, but I think I don't
-Today I discovered some code 
+Today I discovered some code
 in this file, that was not
 written by myself.
 
-For today 09:15, I have no warranty, 
-that my account was not used 
-by someone, I don't knew. 
+For today 09:15, I have no warranty,
+that my account was not used
+by someone, I don't knew.
 
 Sorry for not cotrolled account.
 Sources will be checked and validated as
