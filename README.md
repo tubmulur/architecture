@@ -8,9 +8,10 @@ EDRO:<br/>
 — Future is the time, where you will be. <br/>
 — Would you have some extra needs, or some extra quality wishes in future? <br/>
 — I think yes. I will. <br/>
-— Who'll brings us this needs and wishes? <br/>
-— Also we are. <br/>  <br/>
+— Who'll brings for me this needs and wishes? <br/>
+— Also I am, or we are. <br/>  <br/>
 EDRO <br/>
+
 /home/SetOfTools/EDRO/documentation/Vocabulary/Accronimas/EDRO <br/>
 EDRO - > Is a sequence of processes, consists of 4 required to be formalized proceeding steps; 
 Each step must be defined after another.  <br/>
@@ -52,34 +53,40 @@ Thus,
 |E|.|D|.|R|.|O|.|E|.|D|.|R|.|O|. |E|.|D|.|R|.|O|. |E|.|D|.|R|.|O|. 
 |E|.|D|.|R|.|O|. |E|.|D|.|R|.|O|. |E|.|D|.|R|.|O|. |E|.|D|.|R|.|O|.
 |E|.|D|.|R|.|O|.|E|.|D|.|R|.|O|. |E|.|D|.|R|.|O|. |E|.|D|.|R|.|O|.….. Complete :)
+
 So, example with a real world situation:
 1.Director
+
 1) [E]:Event= "We need to manufacture phone”. Let's make a phone!
 2) [D]:Destination (Design in web projects): It will be manufactored in a phone factory;
 3) [R]:I'm adirector;
 4) [O]:Objects: [D]:Phone factory [R]:Management system [O]:Instructions (Hard work :) );
+
 2.Worker_1, Worker_2 …..
+
 1) [E]:Event= "We need to make a deal pedal”;
 2) [D]:Destination (Design in web projects) It will be manufactored in a plastic deformation room;
 3) [R]:I'm operator;
 4) [O]:Objects: [D]: plastic squeezer, [R]:safety glass, ear plugs. [E]: Instructions;
-Here is process with 4 workers:
-| …Director….
-| / ----|-- |--- \
-|W1 W2 W3 W4
-|E---E---E----E
-|D---D--D----D
-|R---R---R----R
-|O---O--O----O
-|\-----|---|---/
------------------------
-Pruduct is ready to sell, this was endpoint Let's express the selling process through the EDRO template :)
------------------------
-EDRO (Event Destination Reality Object):
-Process description sequence matrix, for creating constructor of a process consists of processes.
-EDRO:
-1) Sequence matrix of process, consists of 4 required to be proceeded steps;
-2) Each step must be applied to each process separately;
-3) Use EDRO template applied in the following direction: →1.E 2.D 3.R 4.O.
-No more rules, just create. :)
-Author: A.A.Checkmarev: assminog@gmail.com.
+
+Here is process with 4 workers: <br/>
+| …Director…. <br/>
+| / ----|-- |--- \ <br/>
+|W1 W2 W3 W4 <br/>
+|E---E---E----E <br/>
+|D---D--D----D <br/>
+|R---R---R----R <br/>
+|O---O--O----O <br/>
+|\-----|---|---/<br/>
+-----------------------<br/>
+Pruduct is ready to sell, this was endpoint Let's express the selling process through the EDRO template :) <br/>
+-----------------------<br/>
+EDRO (Event Destination Reality Object): <br/>
+Process description sequence matrix, for creating constructor of a process consists of processes.  <br/>
+ <br/>
+EDRO:  <br/>
+1) Sequence matrix of process, consists of 4 required to be proceeded steps;  <br/>
+2) Each step must be applied to each process separately;  <br/>
+3) Use EDRO template applied in the following direction: →1.E 2.D 3.R 4.O.  <br/>
+No more rules, just create. :)  <br/>
+Author: A.A.Checkmarev: assminog@gmail.com.  <br/>
