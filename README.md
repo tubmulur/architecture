@@ -1,8 +1,8 @@
-# RCeFramework architecture EDRO
+# Set of tools EDRO;
 
 
 
-RCeFramework EDRO
+EDRO:
 
 Event Destination Reality Objects
 
