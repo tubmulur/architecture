@@ -1,5 +1,6 @@
 # Set of tools EDRO;
 
+https://m.vk.com/@andrey.chekmarev-edro-the-future-of-developing
 
 
 EDRO:
