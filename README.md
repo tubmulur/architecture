@@ -3,17 +3,17 @@
 https://m.vk.com/@andrey.chekmarev-edro-the-future-of-developing
 
 
-EDRO:
-— What is the future?
-— Future is time, where you can be.
-— Would you have some extra needs, or some extra quality wishes in future?
-— I think yes. We will.
-— Who'll brings us this needs and wishes?
-— Also we are.
-EDRO
-/home/RCe.EDRO/documentation/Vocabulary/Accronimas/EDRO
+EDRO:<br/>
+— What is the future? <br/>
+— Future is time, where you can be. <br/>
+— Would you have some extra needs, or some extra quality wishes in future? <br/>
+— I think yes. We will. <br/>
+— Who'll brings us this needs and wishes? <br/>
+— Also we are. <br/>
+EDRO <br/>
+/home/RCe.EDRO/documentation/Vocabulary/Accronimas/EDRO <br/>
 EDRO - > Is a sequence of processes, consists of 4 required to be formalized proceeding steps; Each step must be defined after another.
-Here are this steps:
+Here are this steps: <br/>
 1.[E] Event;
 2.[D] Design or Destination (the place where) ;
 3.[R] Reality;
