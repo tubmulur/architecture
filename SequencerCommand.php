@@ -1,7 +1,7 @@
 This file was deleted.
 I understand, that I must exit,
 from my github account, before I
-exiting the office.
+exiting the office, but I think I don't
 Today I discovered some code 
 in this file, that was not
 written by myself.
